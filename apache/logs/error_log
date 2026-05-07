@@ -1,0 +1,2 @@
+[Thu May 07 11:24:35.631163 2026] [mpm_event:notice] [pid 379:tid 379] AH00489: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Thu May 07 11:24:35.631246 2026] [core:notice] [pid 379:tid 379] AH00094: Command line: 'httpd -f /home/runner/workspace/apache/httpd.conf -D FOREGROUND'
