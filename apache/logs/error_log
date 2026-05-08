@@ -1,2 +1,5 @@
 [Thu May 07 11:24:35.631163 2026] [mpm_event:notice] [pid 379:tid 379] AH00489: Apache/2.4.62 (Unix) configured -- resuming normal operations
 [Thu May 07 11:24:35.631246 2026] [core:notice] [pid 379:tid 379] AH00094: Command line: 'httpd -f /home/runner/workspace/apache/httpd.conf -D FOREGROUND'
+[Fri May 08 10:32:03.615520 2026] [core:warn] [pid 130:tid 130] AH00098: pid file /home/runner/workspace/apache/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 08 10:32:03.617543 2026] [mpm_event:notice] [pid 130:tid 130] AH00489: Apache/2.4.62 (Unix) configured -- resuming normal operations
+[Fri May 08 10:32:03.617569 2026] [core:notice] [pid 130:tid 130] AH00094: Command line: 'httpd -f /home/runner/workspace/apache/httpd.conf -D FOREGROUND'
